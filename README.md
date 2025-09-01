@@ -1,5 +1,6 @@
 # Indoor Navigation without GPS (Monocular RGB)
-
+Wael Zidan - 211708516
+Ali Amara  - 211941604
 This project extends **[ORB-SLAM3]** to support live pose export and integrates with **[Path-Recording-Replay](https://github.com/waelzidan7/Path-Recording-Replay)** for trajectory recording, conversion, and replay.
 
 The system enables **indoor navigation without GPS** using only a monocular RGB camera:
@@ -84,26 +85,6 @@ Outputs:
 - Top-down PNG
 - 3D PNG
 - Replay MP4
-
----
-
-## 📊 Examples
-
-### From this project
-Sample outputs from **fr1/room** dataset:
-
-- **Top-down replay**  
-  ![Top-down](examples/fr1_room_topdown.png)
-
-- **3D trajectory**  
-  ![3D](examples/fr1_room_3d.png)
-
-- **Replay video**  
-  Stored in [`videos/fr1_room_replay.mp4`](videos/fr1_room_replay.mp4)
-
-### More examples
-Additional examples are available in  
-➡️ [waelzidan7/Path-Recording-Replay – Examples](https://github.com/waelzidan7/Path-Recording-Replay/tree/main/examples)
 
 ---
 
