@@ -1,5 +1,3 @@
-# IndoorNavigationProject
-
 # Indoor Navigation without GPS (Monocular RGB)
 
 This project extends **[ORB-SLAM3]** to support live pose export and integrates with **[Path-Recording-Replay](https://github.com/waelzidan7/Path-Recording-Replay)** for trajectory recording, conversion, and replay.
