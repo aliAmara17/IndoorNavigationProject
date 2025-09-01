@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.DS_Store
+*.swp
+*.mkv
+*.tgz
+*_dataset_*/
+rgbd_dataset_*/
