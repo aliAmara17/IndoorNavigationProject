@@ -15,12 +15,11 @@ The system enables **indoor navigation without GPS** using only a monocular RGB 
 ## 📂 Repository Structure
 ```
 IndoorNavigationProject/
-├─ ORB_SLAM3/               # Submodule: modified ORB-SLAM3 fork (pose export)
-├─ Path-Recording-Replay/   # Submodule: Wael Zidan’s replay & guidance tools
-├─ DemoScripts/             # Helper scripts to run datasets and guidance
-├─ docs/                    # (Optional) Documentation / slides
-├─ examples/                # Sample results (images, videos)
-└─ README.md                # This file
+├─ ORB_SLAM3/                  # Submodule: modified ORB-SLAM3 fork (pose export)
+├─ Path-Recording-Replay/      # Submodule: Wael Zidan’s replay & guidance tools click here to see all the work including this part
+├─ Path-Live-Pose/DemoScripts/ # Helper scripts to run datasets and guidance
+├─ videos/                     # Sample results
+└─ README.md                   # This file
 ```
 
 ---
