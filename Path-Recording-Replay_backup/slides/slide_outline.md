@@ -1,8 +1,0 @@
-1. Motivation (record & replay from monocular RGB)
-2. Architecture (ORB-SLAM3 + our tools)
-3. ORB-SLAM3 I/O (TUM trajectories)
-4. Pose format (timestamp, tx ty tz qx qy qz qw)
-5. Visuals (first & second path plots + MP4)
-6. Results (observations)
-7. Limitations (drift/failures)
-8. Next steps (ROS live, camera, smoothing)
