@@ -91,6 +91,8 @@ Outputs:
 ---
 
 ## 📊 Examples
+
+### From this project
 Sample outputs from **fr1/room** dataset:
 
 - **Top-down replay**  
@@ -100,7 +102,11 @@ Sample outputs from **fr1/room** dataset:
   ![3D](examples/fr1_room_3d.png)
 
 - **Replay video**  
-  Stored in `videos/fr1_room_replay.mp4`
+  Stored in [`videos/fr1_room_replay.mp4`](videos/fr1_room_replay.mp4)
+
+### More examples
+Additional examples are available in  
+➡️ [waelzidan7/Path-Recording-Replay – Examples](https://github.com/waelzidan7/Path-Recording-Replay/tree/main/examples)
 
 ---
 
